@@ -1,9 +1,4 @@
-   _  _         _       ___ _         _         
-    |   \|   |___  __| |___  | __(_)_ _  __| |___ _ _ 
-    |   .`   / _ \/ _` / -_) | _|| | ' \/ _` / -_) '_|
-    |_|\_  \___/\__,_\___| |_| |_|_||_\__,_\___|_|  
-                                               
-
+NODE FINDER!!
 
 Pymclevel requires YAML and Numpy installed, so this does too.  Consult the project pages of each for installation instructions.
 
